@@ -2,8 +2,6 @@
 """
 https://github.com/btrevizan/pySCF
 Created on Thu Dec 21 18:50:26 2017
-
-@author: Rizwan Yasin
 """
 
 """A Python implementation of some ideas in Chapter 2 of the book
